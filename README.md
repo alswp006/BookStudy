@@ -14,7 +14,7 @@
 
 ### 읽고 싶은 책
 - [x] Head First Java
-- [ ] Head Fisrt Design Patterns
+- [ ] Head Fisrt Design Patterns (~ing)
 - [ ] 함께 자라기 - 김창준
 - [ ] 테스트 주도 개발 - Kent Beck
 - [ ] 클린 코드
