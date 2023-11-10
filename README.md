@@ -13,13 +13,13 @@
 ### 후기는 각 책 디렉토리의 readme 가장 아래에 있습니다!
 
 ### 읽고 싶은 책
-[x] Head First Java
-[ ] Head Fisrt Design Patterns
-[ ] 함께 자라기 - 김창준
-[ ] 테스트 주도 개발 - Kent Beck
-[ ] 클린 코드
-[ ] 한 권으로 읽는 컴퓨터 구조와 프로그래밍
-[ ] 개발자의 글쓰기
+- [x] Head First Java
+- [ ] Head Fisrt Design Patterns
+- [ ] 함께 자라기 - 김창준
+- [ ] 테스트 주도 개발 - Kent Beck
+- [ ] 클린 코드
+- [ ] 한 권으로 읽는 컴퓨터 구조와 프로그래밍
+- [ ] 개발자의 글쓰기
 
 
 
